@@ -39,7 +39,6 @@ Herramientas: Git, Docker, MySQL
 
 ### 📫 Conectemos
 - [LinkedIn](https://www.linkedin.com/in/felipe-de-jesús-garcía-garcía-3765a8208)
-- [Sitio web personal](https://tudominio.com) <!-- Para desarrollo futuro -->
 
 > "Todo lo puedo en Cristo que me fortalece." – Filipenses 4:13
 
