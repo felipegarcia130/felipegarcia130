@@ -9,6 +9,10 @@ I'm a robotics engineering student at Tecnológico de Monterrey, graduating in 2
 
 I also volunteer as a robotics and programming instructor as part of my social service — getting to share what I've learned with others is one of the things I enjoy most.
 
+### Experience
+
+- 🇯🇵 **Research Intern — AIST Tokyo Waterfront** (2024–2025)  
+  Developed VoiceSign, a multimodal teleoperation system for a UR5e robotic arm integrating ROS2, computer vision, ASL gesture recognition, and LLM-based voice commands.
 ---
 
 ### Tech stack
