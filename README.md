@@ -47,6 +47,7 @@ I also volunteer as a robotics and programming instructor as part of my social s
 ### Let's connect
 
 - [LinkedIn](https://www.linkedin.com/in/felipe-de-jesús-garcía-garcía-3765a8208)
+- [Portfolio](https://felisuper13.wixsite.com/felipe-garc)
 
 > "I can do all things through Christ who strengthens me." — Philippians 4:13
 
