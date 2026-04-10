@@ -1,5 +1,5 @@
-# 👋 Hey there!
-## Felipe García — Robotics & Digital Systems Engineer
+<h1 align="center">Hey, I'm Felipe García 👋</h1>
+<h3 align="center">Robotics & Digital Systems Engineer · ROS2 · Computer Vision · HRI</h3>
 
 ---
 
