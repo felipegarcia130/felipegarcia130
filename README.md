@@ -1,5 +1,6 @@
-<h1 align="center">Hey, I'm Felipe García 👋</h1>
-<h3 align="center">Robotics & Digital Systems Engineer · ROS2 · Computer Vision · HRI</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:378add&height=160&section=header&text=Felipe%20García&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Robotics%20%26%20Digital%20Systems%20Engineer&descAlignY=58&descColor=ffffff" />
+</p>
 
 ---
 
