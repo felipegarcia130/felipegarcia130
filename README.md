@@ -15,7 +15,7 @@ Bienvenido a mi repositorio de proyectos. Soy estudiante del Tecnológico de Mon
 Lenguajes: Python, C++, C, VHDL, Assembly
 Tecnologías: ROS2, OpenCV, MATLAB, Unity
 Hardware: Raspberry Pi, ESP32, STM32, FPGAs
-Herramientas: Git, Docker, MySQL
+Herramientas: Git, Docker
 ```
 
 ### 🚀 Proyectos destacados
