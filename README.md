@@ -1,47 +1,51 @@
-# 👋 ¡Hola, mundo! 
-
-## 💻 Felipe García | Ingeniero en Robótica y Sistemas Digitales | Desarrollador ROS2
-
-Bienvenido a mi repositorio de proyectos. Soy estudiante del Tecnológico de Monterrey, enfocado en la intersección de robótica, programación y sistemas embebidos.
-
-### 🔍 Sobre mí
-- 🎓 Estudiante de Ingeniería en Robótica y Sistemas Digitales (2022-2026)
-- 🤖 Experiencia en ROS2, sistemas autónomos y visión computacional
-- 🔧 Desarrollo de proyectos con microcontroladores y FPGAs
-- 🌱 Profesor de robótica y programación como servicio social
-
-### 🛠️ Stack tecnológico
-```
-Lenguajes: Python, C++, C, VHDL, Assembly
-Tecnologías: ROS2, OpenCV, MATLAB, Unity
-Hardware: Raspberry Pi, ESP32, STM32, FPGAs
-Herramientas: Git, Docker
-```
-
-### 🚀 Proyectos destacados
-- 🚗 Control autónomo para kit de auto 4WD con posicionamiento por cámara
-- 🚜 Simulación de tractor en Unity con FPGA como controlador
-- 🌿 Maceta inteligente IoT con ESP32 y sensores ultrasónicos
-- 🚢 Algoritmos de navegación basados en ROS2 para barco autónomo
-- 🤖 Programación de robot Misty para asistencia a niños con autismo
-- 🏎️ Robot seguidor de línea con Puzzlebot
-
-### 📚 Educación
-- Ingeniería en Robótica y Sistemas Digitales, Tecnológico de Monterrey (2022-2026)
-- Preparatoria, Tecnológico de Monterrey (2019-2022)
-
-### 🌐 Idiomas
-- Español: Nativo
-- Inglés: B2 (TOEFL iBT)
-- Francés: A2 (DELF)
-- Alemán: A2 (En aprendizaje)
-- Japonés: Principiante
-
-### 📫 Conectemos
-- [LinkedIn](https://www.linkedin.com/in/felipe-de-jesús-garcía-garcía-3765a8208)
-
-> "Todo lo puedo en Cristo que me fortalece." – Filipenses 4:13
+# 👋 Hey there!
+## Felipe García — Robotics & Digital Systems Engineer
 
 ---
 
-⭐️ ¡No dudes en explorar mis repositorios y colaborar en proyectos interesantes!
+### About me
+
+I'm a robotics engineering student at Tecnológico de Monterrey, graduating in 2026. I love working across the full stack — from hardware and embedded systems to computer vision and autonomous navigation. Most of my time goes into ROS2, robotic manipulation, and figuring out how to make machines actually useful in the real world.
+
+I also volunteer as a robotics and programming instructor as part of my social service — getting to share what I've learned with others is one of the things I enjoy most.
+
+---
+
+### Tech stack
+---
+
+### Some things I've built
+
+- 🚗 Autonomous control for a 4WD car kit using camera-based positioning
+- 🚜 John Deere tractor simulation in Unity, with an FPGA as the hardware controller
+- 🌿 Smart IoT plant pot using an ESP32 and ultrasonic sensors
+- 🚢 ROS2-based navigation stack for an autonomous boat
+- 🤖 Programmed a Misty robot to support children with autism
+- 🏎️ Line-following robot built around the Puzzlebot platform
+
+---
+
+### Education
+
+- B.Eng. in Robotics & Digital Systems Engineering — Tecnológico de Monterrey (2022–2026)
+- High school — Tecnológico de Monterrey (2019–2022)
+
+---
+
+### Languages
+
+![Spanish](https://img.shields.io/badge/Spanish-Native-lightgrey)
+![English](https://img.shields.io/badge/English-B2%20TOEFL%20iBT-blue)
+![French](https://img.shields.io/badge/French-A2%20DELF-blue)
+
+---
+
+### Let's connect
+
+- [LinkedIn](https://www.linkedin.com/in/felipe-de-jesús-garcía-garcía-3765a8208)
+
+> "I can do all things through Christ who strengthens me." — Philippians 4:13
+
+---
+
+⭐ Feel free to explore my repos — always happy to collaborate on interesting projects.
