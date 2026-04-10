@@ -31,7 +31,7 @@ I also volunteer as a robotics and programming instructor as part of my social s
 
 ### Education
 
-- B.Eng. in Robotics & Digital Systems Engineering — Tecnológico de Monterrey (2022–2026)
+- BSc. in Robotics & Digital Systems Engineering — Tecnológico de Monterrey (2022–2026)
 - High school — Tecnológico de Monterrey (2019–2022)
 
 ---
