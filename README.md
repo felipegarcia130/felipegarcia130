@@ -5,7 +5,10 @@
 
 ### About me
 
-I'm a robotics engineering student at Tecnológico de Monterrey, graduating in 2026. I love working across the full stack, from hardware and embedded systems to computer vision and autonomous navigation. Most of my time goes into ROS2, robotic manipulation, and figuring out how to make machines actually useful in the real world.
+I'm a Robotics & Digital Systems Engineer graduating from Tecnológico de Monterrey in July 2026. 
+I love working across the full stack, from hardware and embedded systems to computer vision and 
+autonomous navigation. Most of my time goes into ROS2, robotic manipulation, and figuring out 
+how to make machines actually useful in the real world.
 
 I also volunteer as a robotics and programming instructor as part of my social service, getting to share what I've learned with others is one of the things I enjoy most.
 
@@ -26,6 +29,8 @@ I also volunteer as a robotics and programming instructor as part of my social s
 - 🚢 ROS2-based navigation stack for an autonomous boat
 - 🤖 Programmed a Misty robot to support children with autism
 - 🏎️ Line-following robot built around the Puzzlebot platform
+- 🤖 Autonomous navigation stack for the Puzzlebot — Monte Carlo Localization, A* path planning, and custom SLAM in ROS2
+- 🐾 Visual navigation with a Clearpath Husky A200 and Azure Kinect — part of the RASTEC autonomous vehicles team at Tec de Monterrey
 
 ---
 
